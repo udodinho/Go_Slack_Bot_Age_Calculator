@@ -1,1 +1,3 @@
-# Go_Slack_Bot_Age_Calculator
+### Go Slack Bot Age Calculator
+
+A slack bot age calculator
